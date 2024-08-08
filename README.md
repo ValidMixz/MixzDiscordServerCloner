@@ -47,7 +47,7 @@ For those who prefer to run the script manually, you can clone the repository an
 5. Run the script with `python main.py`.
 6. When prompted, input your token and the server ID.
 
-![Script Screenshot](https://i.imgur.com/prK9yR4.png)
+![Script Screenshot](https://i.imgur.com/Zd5WBY2.png)
 
 Wait for the script to comple infinite community!
 
