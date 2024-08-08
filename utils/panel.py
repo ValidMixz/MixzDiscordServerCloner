@@ -64,5 +64,5 @@ def Panel_Run(guild, user):
     console.print(RichPanel(paragraph, style="bold blue", width=47))
     
     # Version information
-    version = "2.0.1"
+    version = "1.0"
     console.print(RichPanel(f"Version: {version}", style="bold magenta", width=47))
