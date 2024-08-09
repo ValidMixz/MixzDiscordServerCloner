@@ -19,7 +19,7 @@ def Panel ():#line:8
     OO0O0000000O00OO0 .print (OO0O0000O0O00OOOO )#line:25
     O000O00000OOO00OO ="""Discord has removed the functionality for bots to create a server automatically. You will have to create a server manually and provide the server ID and the server you want to clone."""#line:28
     OO0O0000000O00OO0 .print (RichPanel (O000O00000OOO00OO ,style ="bold blue",width =47 ))#line:29
-    OOO0OO00O0OO000O0 ="1.0"#line:32
+    OOO0OO00O0OO000O0 ="1.0.1"#line:32
     OO0O0000000O00OO0 .print (RichPanel (f"Version: {OOO0OO00O0OO000O0}",style ="bold magenta",width =47 ))#line:33
 def Panel_Run (OO0OOOOOO0OOOO000 ,OOO000OO0000O0OO0 ):#line:36
     with open ("./utils/config.json","r")as O0O0OO000OOOOO0O0 :#line:37
@@ -41,5 +41,5 @@ def Panel_Run (OO0OOOOOO0OOOO000 ,OOO000OO0000O0OO0 ):#line:36
     OO000O0OO0O0000O0 .print (O0OOO0OOOOOO00000 )#line:60
     OOOO0O0OOOO0O00OO ="""Discord has removed the functionality for bots to create a server automatically. You will have to create a server manually and provide the server ID and the server you want to clone."""#line:63
     OO000O0OO0O0000O0 .print (RichPanel (OOOO0O0OOOO0O00OO ,style ="bold blue",width =47 ))#line:64
-    OOO000O0000O000O0 ="2.0.1"#line:67
+    OOO000O0000O000O0 ="1.0.1"#line:67
     OO000O0OO0O0000O0 .print (RichPanel (f"Version: {OOO000O0000O000O0}",style ="bold magenta",width =47 ))#line:68
